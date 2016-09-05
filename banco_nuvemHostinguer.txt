@@ -1,0 +1,3 @@
+nome banco:bdfar
+usuario: host
+senha: admin123
